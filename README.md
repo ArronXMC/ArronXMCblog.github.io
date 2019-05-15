@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 hexo-theme-yilia
-================
 
 Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
 崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](http://litten.me/) 查看效果。           
@@ -213,8 +211,5 @@ friends:
 aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
 ```
 
-
-=======
 # blog
 Arron的个人博客
->>>>>>> b317ce7a789b9b83a89ef5acc077694aaeef5d23
