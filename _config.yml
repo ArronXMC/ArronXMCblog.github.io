@@ -1,6 +1,10 @@
 # Site settings
 title: Your awesome title
+<<<<<<< HEAD
 email: your-email@domain.com
+=======
+email: arro_007@126.com
+>>>>>>> d40cab75d2a86777b6f3d83fb8130b0ea14d3c21
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
@@ -14,7 +18,11 @@ github: username
 deviantart: username
 codepen: username
 
+<<<<<<< HEAD
 footer: © Taken theme
+=======
+footer: © Arron theme
+>>>>>>> d40cab75d2a86777b6f3d83fb8130b0ea14d3c21
 
 # Build settings
 markdown: kramdown
