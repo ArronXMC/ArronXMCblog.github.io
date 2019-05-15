@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hexo-theme-yilia
 ================
 
@@ -213,3 +214,7 @@ aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
 ```
 
 
+=======
+# blog
+Arron的个人博客
+>>>>>>> b317ce7a789b9b83a89ef5acc077694aaeef5d23
